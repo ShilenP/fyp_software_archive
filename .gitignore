@@ -1,0 +1,9 @@
+checkpoints*/
+trained_models*/
+images/
+.cache/
+.pytest_cache/
+__pycache__/
+mnist_data/
+dataset/
+mnist_data/*
